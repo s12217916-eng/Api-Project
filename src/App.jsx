@@ -15,11 +15,7 @@ function App() {
   return (
     <>
    <Navbar1/>
-   <Hero/>
-<Portfolio/>
-<About/>
-<Contact/>
-<Footer/> 
+  
 
 
 
