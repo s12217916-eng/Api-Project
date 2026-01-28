@@ -8,7 +8,7 @@ import img5 from '../image/5.png'
 import img6 from '../image/6.png'
 export default function Portfolio() {
   return (
-    <div className={`${styles['main-Color']} text-center mt-5 py-4 mb-5`} >
+    <div className={`${styles['main-Color']} text-center mt-5 py-4 mb-1`} >
       <h2 className={`${styles['main-Color']} text-center fs-1`}>Portfolio</h2>
       <div className=''>
         <div className='d-flex justify-content-center align-items-center flex-wrap w-100 container g-4 py-2'>
